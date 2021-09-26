@@ -3,7 +3,7 @@ This project firstly aims to classify brain CT images into two classes namely 'S
 
 The dataset used in this project is taken from Teknofest2021-AI in Medicine competition. It contains 6000 CT images.
 
-<strong>Detection Accuracy: %94.57 (900 Test images) | Segmentation IOU Score: %71.04 (440 Test images)<strong>
+<h2>Detection Accuracy: %94.57 (900 Test images) | Segmentation IOU Score: %71.04 (440 Test images)<h2>
 
 
 The model architecture used for the detection task: VGG16
@@ -17,7 +17,7 @@ The model architecture used for segmentation task: UNET
 ![u-net-architecture](https://user-images.githubusercontent.com/56753978/134819883-a8b284da-ff67-42de-9eff-9011f2eaa173.png)
 
 
-<strong>Project includes 8 different phases:</strong>
+<h2>Project includes 8 different phases:</h2>
 
 1-Working with DICOM files, getting the images in a correct way to be able to classify/segment it easily with Deep Learning methods.
 
@@ -38,18 +38,18 @@ The model architecture used for segmentation task: UNET
 
 
 
-<strong> ACCURACY VERSUS EPOCHS (visualization of accuracy over training epochs) </strong>
+<h2> ACCURACY VERSUS EPOCHS (visualization of accuracy over training epochs) </h2>
 
 ![Screen Shot 2021-09-26 at 21 19 45](https://user-images.githubusercontent.com/56753978/134819911-c40e90d5-5ed1-452c-9b2e-e379e5830a99.png)
 
 
 
-<strong>EXAMPLES</strong>
+<h2>EXAMPLES</h2>
 
 ![hemorrhagicalExample](https://user-images.githubusercontent.com/56753978/134818932-b6023adb-9eaf-4af3-9d30-d397a9ecb119.png)
 
-Segmentation of hemorrhagical stroke.
+<strong>Segmentation of hemorrhagical stroke.</strong>
 
 ![ischemicExample](https://user-images.githubusercontent.com/56753978/134818936-ed268041-50c0-4f1f-bf8b-55273bdd142e.png)
 
-Segmentation of ischemic stroke.
+  <strong>Segmentation of ischemic stroke.</strong>
