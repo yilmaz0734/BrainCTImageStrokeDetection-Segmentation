@@ -20,7 +20,6 @@ class Dataset:
         self.testSetName=testSetName
         self.tup=tup
         self.pathList=self.getListOfPaths()
-        print(self.pathList)
 
 
     def getListOfPaths(self):
