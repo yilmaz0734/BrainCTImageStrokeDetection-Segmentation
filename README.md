@@ -19,6 +19,8 @@ Project includes 8 different phases:
 8-Choosing the best model.
 
 
-
+Segmentation of hemorrhagical stroke.
 ![hemorrhagicalExample](https://user-images.githubusercontent.com/56753978/134818932-b6023adb-9eaf-4af3-9d30-d397a9ecb119.png)
+
+Segmentation of ischemic stroke.
 ![ischemicExample](https://user-images.githubusercontent.com/56753978/134818936-ed268041-50c0-4f1f-bf8b-55273bdd142e.png)
