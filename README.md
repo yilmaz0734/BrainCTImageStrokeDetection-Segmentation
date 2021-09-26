@@ -1,5 +1,17 @@
 # BrainCTImageStrokeDetection-Segmentation
-This project firstly aims to classify brain CT images using convolutional neural networks. In the second stage, the task is making the segmentation with Unet model.
+This project firstly aims to classify brain CT images into two classes namely 'Stroke' and 'Non-Stroke' using convolutional neural networks. In the second stage, the task is making the segmentation with Unet model.
+
+The model architecture used for the detection task: VGG16
+
+
+![vgg16-1-e1542731207177](https://user-images.githubusercontent.com/56753978/134819854-bbcae054-bf93-4677-b206-dea222a6cb88.png)
+
+The model architecture used for segmentation task: UNET
+
+
+![u-net-architecture](https://user-images.githubusercontent.com/56753978/134819883-a8b284da-ff67-42de-9eff-9011f2eaa173.png)
+
+
 Project includes 8 different phases:
 
 1-Working with DICOM files, getting the images in a correct way to be able to classify/segment it easily with Deep Learning methods.
