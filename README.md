@@ -12,7 +12,7 @@ The model architecture used for segmentation task: UNET
 ![u-net-architecture](https://user-images.githubusercontent.com/56753978/134819883-a8b284da-ff67-42de-9eff-9011f2eaa173.png)
 
 
-Project includes 8 different phases:
+<strong>Project includes 8 different phases:</strong>
 
 1-Working with DICOM files, getting the images in a correct way to be able to classify/segment it easily with Deep Learning methods.
 
@@ -31,6 +31,15 @@ Project includes 8 different phases:
 8-Choosing the best model.
 
 
+
+
+<strong> ACCURACY VERSUS EPOCHS (visualization of accuracy over training epochs) </strong>
+
+![Screen Shot 2021-09-26 at 21 19 45](https://user-images.githubusercontent.com/56753978/134819911-c40e90d5-5ed1-452c-9b2e-e379e5830a99.png)
+
+
+
+<strong>EXAMPLES</strong>
 
 ![hemorrhagicalExample](https://user-images.githubusercontent.com/56753978/134818932-b6023adb-9eaf-4af3-9d30-d397a9ecb119.png)
 
