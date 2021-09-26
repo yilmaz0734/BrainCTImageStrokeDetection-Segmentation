@@ -1,3 +1,4 @@
+
 # BrainCTImageStrokeDetection-Segmentation
 This project firstly aims to classify brain CT images into two classes namely 'Stroke' and 'Non-Stroke' using convolutional neural networks. In the second stage, the task is making the segmentation with Unet model. 
 
@@ -39,17 +40,21 @@ The model architecture used for segmentation task: UNET
 
 
 <h2> ACCURACY VERSUS EPOCHS (visualization of accuracy over training epochs) </h2>
+  
 
-![Screen Shot 2021-09-26 at 21 19 45](https://user-images.githubusercontent.com/56753978/134819911-c40e90d5-5ed1-452c-9b2e-e379e5830a99.png)
-
+<p align="center"> 
+<img src=https://user-images.githubusercontent.com/56753978/134819911-c40e90d5-5ed1-452c-9b2e-e379e5830a99.png>
+  </p>
 
 
 <h2>EXAMPLES</h2>
-
-![hemorrhagicalExample](https://user-images.githubusercontent.com/56753978/134818932-b6023adb-9eaf-4af3-9d30-d397a9ecb119.png)
-
+<p align="center"> 
+<img src=https://user-images.githubusercontent.com/56753978/134818932-b6023adb-9eaf-4af3-9d30-d397a9ecb119.png>
+ </p>
 <strong>Segmentation of hemorrhagical stroke.</strong>
-
-![ischemicExample](https://user-images.githubusercontent.com/56753978/134818936-ed268041-50c0-4f1f-bf8b-55273bdd142e.png)
-
-  <strong>Segmentation of ischemic stroke.</strong>
+ 
+<p align="center">
+<img src=https://user-images.githubusercontent.com/56753978/134818936-ed268041-50c0-4f1f-bf8b-55273bdd142e.png>
+   </p>
+<strong>Segmentation of ischemic stroke.</strong>
+ 
