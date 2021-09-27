@@ -50,11 +50,14 @@ The model architecture used for segmentation task: UNET
 <h2>EXAMPLES</h2>
 <p align="center"> 
 <img src=https://user-images.githubusercontent.com/56753978/134818932-b6023adb-9eaf-4af3-9d30-d397a9ecb119.png>
- </p>
+</p>
+  
 <strong>Segmentation of hemorrhagical stroke.</strong>
- 
+
+
 <p align="center">
 <img src=https://user-images.githubusercontent.com/56753978/134818936-ed268041-50c0-4f1f-bf8b-55273bdd142e.png>
-   </p>
+</p>
+  
 <strong>Segmentation of ischemic stroke.</strong>
  
